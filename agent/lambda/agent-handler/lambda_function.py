@@ -36,8 +36,8 @@ def elicit_intent(intent_request, session_attributes, message):
                              "value": "What is your return policy?"
                          },
                          {
-                            "text": "Smart Devices",
-                            "value": "Which smart devices Company integrates with?"
+                            "text": "Warranty",
+                            "value": "Do you products have any warranty?"
                         },
                         {
                             "text": "Contact Information",
